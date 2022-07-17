@@ -4,18 +4,19 @@
     "description": "",
     "main": "app.js",
     "scripts": {
+      "start": "webpack-dev-server --hot"
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/BlinkingHeimdall/employee-tracker.git"
+      "url": "https://github.com/Julie-t87/Employee-tracker"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/BlinkingHeimdall/employee-tracker/issues"
+      "url": "https://github.com/Julie-t87/Employee-tracker/issues"
     },
-    "homepage": "https://github.com/BlinkingHeimdall/employee-tracker#readme",
-    "dependencies": {
+    "homepage": "https://github.com/Julie-t87/Employee-tracker/blob/main/README.md",
+    "dependencies":{
       "console.table": "^0.10.0",
       "inquirer": "^8.2.4",
       "mysql2": "^2.3.3"
